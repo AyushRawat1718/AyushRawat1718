@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Ayush Rawat
 
-<!--
-**AyushRawat1718/AyushRawat1718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate Software Developer focused on building scalable systems, AI agents, and end-to-end automation. I love working with modern backend technologies, intelligent systems, and creating real-world solutions that actually matter.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 What I Do
+- 🧠 Build AI Agent Systems (LangGraph, LangChain, FastAPI)
+- ⚙️ Develop high-performance backend services
+- 🤖 Work with LLMs, automation, and workflow orchestration
+- 🚀 Create clean, production-ready codebases
+
+---
+
+## 🛠️ Tech Stack I Work With
+- **Languages:** Python, Java, JavaScript, C++
+- **AI/ML:** LangChain, LangGraph, Groq, OpenAI, LLaMA
+- **Backend:** FastAPI, Node.js, REST APIs
+- **Tools:** VS Code, Uvicorn, Docker, Git, Streamlit
+
+---
+
+## 🌟 Highlight Project — NeuraChat
+An end-to-end AI Agent Chatbot built using:
+- LangGraph ReAct Agents  
+- FastAPI backend  
+- Groq + OpenAI LLMs  
+- Streamlit UI  
+- Tool integrations via LangChain  
+
+*(Ask me about it — I love explaining the architecture!)*
+
+---
+
+## 📈 Current Focus
+- Strengthening system design & backend engineering  
+- Improving my AI agent workflows  
+- Building scalable architectures  
+- Practicing clean coding & problem-solving  
+
+---
+
+## 📫 Connect With Me
+- GitHub: **github.com/Ayush-Rawat**  
+- Email: **your-email@example.com**  
+- LinkedIn: *(add if you want)*  
+
+---
+
+⭐ *Thanks for visiting! Feel free to explore my repos.*  
