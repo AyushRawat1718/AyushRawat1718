@@ -1,18 +1,13 @@
-<!-- Centered Name Intro -->
+<h2 align="center">Hi 👋 I'm Ayush Rawat</h2>
+
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?color=00F5FF&center=true&vCenter=true&width=500&height=50&lines=Hi+👋+I'm+Ayush+Rawat"
+    src="https://readme-typing-svg.herokuapp.com?color=00F5FF&center=true&vCenter=true&width=700&height=45&size=22&lines=Full+Stack+Developer;Backend+%26+AI+Engineer;Builder+of+Smart+Systems;Always+Learning+%26+Creating!"
     alt="Typing animation"
   />
 </p>
 
-<!-- Left-Aligned Animated Roles -->
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?color=00F5FF&center=false&vCenter=true&width=700&height=50&lines=Full+Stack+Developer;Backend+%26+AI+Engineer;Builder+of+Smart+Systems;Always+Learning+%26+Creating!"
-    alt="Typing animation roles"
-  />
-</p>
+
 
 <!-- Centered Description -->
 <p align="center">
@@ -26,20 +21,31 @@
 
 
 ## 🚀 Featured Projects
+
 ### 🔹 TaxMate — Smart Tax Automation Tool
-A Java-based desktop app for simplified income tax computation with structured data storage using MySQL and optimized SQL queries.
+A Java-based desktop app for simplified income tax computation with optimized MySQL-backed workflows.  
+[![GitHub Repo](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github)](https://github.com/ayushrawat1718/TaxMate)
+
 
 ### 🔹 Syncora — Real-Time Collaboration Platform
-A full-stack scheduling platform inspired by Google Calendar, supporting event creation, editing, deletion, and category-based filtering with a dynamic Next.js UI and PostgreSQL persistence.
+A Google Calendar–inspired scheduling platform supporting event creation, editing, deletion, and category filtering with a dynamic Next.js UI and PostgreSQL persistence.  
+[![GitHub Repo](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github)](https://github.com/ayushrawat1718/Syncora)
+
 
 ### 🔹 YouTube Fact Checker — AI Claim Verification System
-An AI-powered system that extracts YouTube transcripts, identifies claims, and verifies them using LLaMA-based reasoning.
+An AI-powered system that extracts YouTube transcripts, identifies claims, and verifies them using LLaMA-based reasoning.  
+[![GitHub Repo](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github)](https://github.com/ayushrawat1718/youtube-fact-checker)
+
 
 ### 🔹 NeuraChat — AI Agent Chatbot
-An intelligent AI agent chatbot built with LangGraph, capable of reasoning, tool use, and executing autonomous multi-step tasks.
+A reasoning-capable AI agent chatbot built with LangGraph, capable of tool use and multi-step autonomous tasks.  
+[![GitHub Repo](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github)](https://github.com/ayushrawat1718/NeuraChat)
+
 
 ### 🔹 AuthFlow — Modern Authentication System
-A modern authentication system with JWT, refresh tokens, and RBAC designed for secure, production-ready user management.
+A secure authentication system with JWT, refresh tokens, and RBAC designed for reliable, production-ready user management.  
+[![GitHub Repo](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github)](https://github.com/ayushrawat1718/AuthFlow)
+
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ayushrawat1718&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
